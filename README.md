@@ -41,6 +41,9 @@ Here is a detailed analysis of the sales data:
 ![Screenshot 2024-10-13 202553](https://github.com/user-attachments/assets/3bcfbe90-23e3-4e49-ad60-01bf3835c9cf)
 
 - Quantity:
+- ![Screenshot 2024-10-13 202732](https://github.com/user-attachments/assets/2b318948-c934-4234-8c62-01f83f8867b2)
+![Screenshot 2024-10-13 202755](https://github.com/user-attachments/assets/e9065b58-dd4d-4246-9c83-3852a00a2160)
+
 
 Dashboard:
 ![Screenshot 2024-10-13 202050](https://github.com/user-attachments/assets/dc5d36ff-7cd6-485c-bb29-eee38b60f083)
