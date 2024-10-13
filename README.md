@@ -32,6 +32,9 @@ Here is a detailed analysis of the sales data:
 - **Quantity**: The total quantity of items sold per month also varies, generally following sales trends but sometimes diverging (indicating lower profit margins).
 
 - sales:
+- ![Screenshot 2024-10-13 202328](https://github.com/user-attachments/assets/d2b273d1-ce5c-4fea-a68d-48255a8cbd02)
+![Screenshot 2024-10-13 202050](https://github.com/user-attachments/assets/1395c27f-7bf2-4539-a335-249f66ce0853)
+
 
 - profits:
 
