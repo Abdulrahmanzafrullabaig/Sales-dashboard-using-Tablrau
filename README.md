@@ -31,3 +31,13 @@ Here is a detailed analysis of the sales data:
 - **Profit**: The profit trend follows a similar pattern, though profit losses in certain months are evident.
 - **Quantity**: The total quantity of items sold per month also varies, generally following sales trends but sometimes diverging (indicating lower profit margins).
 
+- sales:
+
+- profits:
+
+- Quantity:
+
+Dashboard:
+![Screenshot 2024-10-13 202050](https://github.com/user-attachments/assets/dc5d36ff-7cd6-485c-bb29-eee38b60f083)
+
+
