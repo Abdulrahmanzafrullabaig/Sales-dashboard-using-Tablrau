@@ -34,7 +34,7 @@ Here is a detailed analysis of the sales data:
 
 - sales:
 - ![Screenshot 2024-10-13 202328](https://github.com/user-attachments/assets/d2b273d1-ce5c-4fea-a68d-48255a8cbd02)
-![Screenshot 2024-10-13 202050](https://github.com/user-attachments/assets/1395c27f-7bf2-4539-a335-249f66ce0853)
+  ![Screenshot 2024-10-13 202357](https://github.com/user-attachments/assets/45ebdab9-892c-42ad-a5bc-844e2b139418)
 
 
 - profits:
