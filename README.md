@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/33de3056-5ad4-45be-9532-059779680dc9)
 
 ## Sales dashboard using tableau
 
